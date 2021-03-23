@@ -6,3 +6,5 @@ to use this discord bot you must have slappey installed and node.js installed. T
 npm install -g slappey || This will install slappey's command handler globally 
 
 then go to https://www.npmjs.com/package/slappey for future references on how to run the bot etc
+
+Note this is not the full source because i cannot upload the Node modules but its almost the full source
